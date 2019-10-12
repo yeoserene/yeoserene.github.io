@@ -3,6 +3,36 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>http://yeoserene.github.io/posts/helloworld/</loc>
+    <lastmod>2019-10-12T12:03:54-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://yeoserene.github.io/posts/</loc>
+    <lastmod>2019-10-12T12:03:54-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://yeoserene.github.io/</loc>
+    <lastmod>2019-10-12T12:03:54-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://yeoserene.github.io/page/</loc>
+    <lastmod>2019-10-12T10:32:26-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://yeoserene.github.io/publications/</loc>
+    <lastmod>2019-10-12T10:32:26-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://yeoserene.github.io/about/</loc>
+    <lastmod>2019-10-12T10:26:27-04:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://yeoserene.github.io/authors/</loc>
   </url>
   
@@ -12,10 +42,6 @@
   
   <url>
     <loc>http://yeoserene.github.io/series/</loc>
-  </url>
-  
-  <url>
-    <loc>http://yeoserene.github.io/</loc>
   </url>
   
   <url>
