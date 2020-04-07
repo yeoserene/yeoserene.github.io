@@ -5,10 +5,20 @@
     <link>http://yeoserene.github.io/</link>
     <description>Recent content on SY@work</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sat, 12 Oct 2019 12:03:54 -0400</lastBuildDate>
+    <lastBuildDate>Tue, 07 Apr 2020 13:40:18 -0400</lastBuildDate>
     
 	<atom:link href="http://yeoserene.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>28 Days Challenge</title>
+      <link>http://yeoserene.github.io/posts/28-days-challenge/</link>
+      <pubDate>Tue, 07 Apr 2020 13:40:18 -0400</pubDate>
+      
+      <guid>http://yeoserene.github.io/posts/28-days-challenge/</guid>
+      <description>As Singapore launched its nationwide 28-days circuit breaker initiative from Apr 7 to May 4 2020, most of the firms are now required to work from home. With that, I am going to try to keep to an at least 3 papers a week schedule &amp;ndash; to stay relevant and not let my brain rust!
+I&amp;rsquo;ll summarize and tag the papers I read by categories, say Dataset, Transfer Learning, so on and so forth.</description>
+    </item>
     
     <item>
       <title>Hello World</title>
